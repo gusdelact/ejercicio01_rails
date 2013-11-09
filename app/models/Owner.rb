@@ -3,7 +3,7 @@ class Owner
     name = 'Gustavo de la cruz Tovar'
   end
   def birthdate
-    birthdate = Date.new(1971,12,09)
+    birthdate = Date.new(1971,12,9)
   end
   def countdown
     today = Date.today
